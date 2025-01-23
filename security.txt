@@ -1,0 +1,3 @@
+Contact: contacto@proyectoflower.com
+Preferred-Languages: es
+Canonical: https://comics2.proyectoflower.com/security.txt
